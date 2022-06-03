@@ -2,7 +2,7 @@
 
 
 - 🔭 Estudante de ciência da computação - URI Erechim
-- 📚 Estudando HTML, CSS, JavaScript e React.
+- 📚 Estudando tecnologias front-end (HTML, CSS, JavaScript e React).
 
 <div align="center">
   <a href="https://github.com/julianodsantos">
