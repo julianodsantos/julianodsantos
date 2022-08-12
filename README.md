@@ -2,7 +2,8 @@
 
 
 - 🔭 Estudante de ciência da computação - URI Erechim
-- 📚 Estudando tecnologias front-end (HTML, CSS, JavaScript e React).
+- 📚 Desenvolvedor de Software Java na empresa System Sistemas - Erechim RS 
+ - Conhecimento nas tecnologias Java, JPA, JSF, FireBird, Oracle, HTML, CSS, JavaScript e React.
 
 <div align="center">
   <a href="https://github.com/julianodsantos">
