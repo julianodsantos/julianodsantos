@@ -2,8 +2,7 @@
 
 
 - 🔭 Estudante de ciência da computação - URI Erechim
-- 📚 Desenvolvedor de Software Java na empresa System Sistemas - Erechim RS 
- - Conhecimento nas tecnologias Java, JPA, JSF, FireBird, Oracle, HTML, CSS, JavaScript e React.
+- 📚 Desenvolvedor Java
 
 <div align="center">
   <a href="https://github.com/julianodsantos">
